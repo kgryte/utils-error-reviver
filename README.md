@@ -29,6 +29,8 @@ var err = JSON.parse( str, revive );
 // returns <TypeError>
 ```
 
+For details on the JSON serialization format, see [utils-error-to-json][utils-error-to-json].
+
 
 ## Notes
 
